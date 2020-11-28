@@ -8,7 +8,7 @@ Plot that roughly separates the two classes ![](Hand-written%20Digit%20Classific
 A histogram plot of predicted values to see how well two classes are separated ![](Hand-written%20Digit%20Classification%20using%20feature-based%20linear%20regression/task03.JPG)
 
 
-#2. Handwritten Digit Classifciation using Nearest Subspace :
+# 2. Handwritten Digit Classifciation using Nearest Subspace :
 Classifying handwritten digits using a nearest-subspace approach.
 
 First three left singular vectors of the training data for each digit ![](Handwritten%20Digit%20Classifciation%20using%20Nearest%20Subspace/Task2_img4.JPG)
