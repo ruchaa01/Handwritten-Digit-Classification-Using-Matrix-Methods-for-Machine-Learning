@@ -1,7 +1,7 @@
 ## Matrix-Methods-for-Signal-Processing-and-Machine-Learning
 
 
-# 1. Hand Written Digit Classification using Inner Product and Vector 2-norm :
+# 1. Hand Written Digit Classification using Inner Product and Vector 2-Norm :
 Use of inner products for classifying handwritten digits
 
 # 2. Hand-written Digit Classification using Feature-based Linear Regression : 
