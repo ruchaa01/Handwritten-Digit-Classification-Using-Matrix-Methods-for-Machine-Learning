@@ -1,8 +1,8 @@
 ## Matrix-Methods-for-Signal-Processing-and-Machine-Learning
 
-
 # 1. Hand Written Digit Classification using Inner Product and Vector 2-Norm :
 Use of inner products for classifying handwritten digits
+
 
 # 2. Hand-written Digit Classification using Feature-based Linear Regression : 
 Classifying handwritten digits using linear regression based on "hand crafted" features.
@@ -20,4 +20,7 @@ First three left singular vectors of the training data for each digit ![](Handwr
 
 Exploring how well the first left singular vectors separate the two classes ![](Handwritten%20Digit%20Classifciation%20using%20Nearest%20Subspace/task3.JPG)
 
+
+ # 4. Handwritten Digit Classification using Logistic Regression :
+Use of three classification methods: subspace-based classification, least-squares based classification, and logistic regression classification (least-squares and logistic are both regression-type classifiers) for classifying handwritten digits.
 
